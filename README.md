@@ -27,7 +27,7 @@
 ## portfollio-website
 
 - Gatsby portfollio website built for self-hosted github runner
-- State - Aug 21, 2025
+- State - Aug 21, 2025:
     - Works; indended way for it to be used was by
         1. Having a private github repository that kept assets used for deployment/github web pages
         2. A self hosted github runner to host the dev and test versions of the docker images running the website
@@ -42,6 +42,6 @@
 ## wg_client_config_generator
 
 - Generates config ready for for mobile or desktop wireguard clients
-- State - Aug 6, 2025
+- State - Aug 6, 2025:
     - Not working; was essentially recreating https://github.com/h44z/wg-portal; use this project instead. Leaving this repo archived in case anyone wants to see the key and QR code generation logic.
 - Likely to continue? No, archived as reference material for generating Wireguard keys using the cli with python
