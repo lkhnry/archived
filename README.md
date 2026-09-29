@@ -4,7 +4,7 @@
 > - These projects may come back to life at some point, but this is generally a single location for "not actively maintained projects, and likely will not be maintained for the foreseable future (or ever)"
 > - These projects are subject to complete removable in the future (from HEAD, still will be tracked by git) 
 
-## beyond-all-reason-autogroup-util
+## [beyond-all-reason-autogroup-util](./beyond-all-reason-autogroup-util/)
 
 - Script used to help creating autogroup configuration for [Beyond All Reason](https://www.beyondallreason.info/)
 - State - Dec 26, 2025:
@@ -16,7 +16,7 @@
     - Game's configuration may have changed since this last update, so may not work anymore
     - May pick back up if I get back into BAR, or if someone wants to take ownership, will transfer it over out of this archived repo
 
-## beyond-all-reason-util-presets
+## [beyond-all-reason-util-presets](./beyond-all-reason-util-presets)
 
 - Directory with some of the input/output from the other BAR util repositories
 - State - Dec 26, 2025:
@@ -24,7 +24,7 @@
 - Likely to continue? No
     - See `beyond-all-reason-autogroup-util` for more info as to why
 
-## portfollio-website
+## [portfollio-website](./portfollio-website)
 
 - Gatsby portfollio website built for self-hosted github runner
 - State - Aug 21, 2025:
@@ -39,7 +39,7 @@
 - Likely to continue? Possibly
     - Project has potential, and may be worked out completely in the future, but for now will remain in an archived state
 
-## wg_client_config_generator
+## [wg_client_config_generator](./wg_client_config_generator)
 
 - Generates config ready for for mobile or desktop wireguard clients
 - State - Aug 6, 2025:
